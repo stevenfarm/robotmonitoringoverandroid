@@ -1,2 +1,12 @@
 This is the read me file for the robotermonitor app.
-Task of the app is to download as a client from a server the data.
+Task of the app is to download data as a client from a server.
+
+To get it running:
+1) Download the file and unzip it 
+2) Install Android Studio
+3) Open new Project and choose "robotmonitoroverandroid"
+4) Fix the link in the code where the app downloads your data
+5) Debug it
+6) Start the Android Emulator or let it run on your android smartphone
+
+Any questions? Feel free to ask.
