@@ -1,4 +1,10 @@
 This is the read me file for the robotermonitor app.
+
+Problem was: During a task (e.g. milling) a roboter arm/joint will be put into minimal oscillation.
+Plan was: Measure the oscillation with a sensor and show the data on an app.
+
+What you need: Bosch XDK Sensor or Arduino/Raspberry with sensors and Wlan attached.
+
 Task of the app is to download data as a client from a server.
 
 To get it running:
